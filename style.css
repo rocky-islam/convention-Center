@@ -1,0 +1,17 @@
+.margin-top-big {
+    margin-top: 150px;
+}
+
+.btn-color {
+    /* background-color: #F496D1; */
+    background-color: #FEF5FA;
+}
+
+.text-color-gray {
+    color: #848199;
+}
+
+.hot-card {
+    top: -100px;
+    box-shadow: 0px 32px 34px #3F87F5;
+}
